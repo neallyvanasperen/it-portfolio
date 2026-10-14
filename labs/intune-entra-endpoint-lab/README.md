@@ -10,8 +10,8 @@ Practise enrolling, configuring, securing and troubleshooting Windows endpoints 
 ## Environment
 | Item | Detail |
 |---|---|
-| Tenant | Free trial (ID not published) |
-| Test users | [fill in] |
+| Tenant | Free trial |
+| Test users | Jennifer Styles- Group Admninistrator<br> Michael Thompson - User Administrator<br>Bradley Cooper - Helpdesk Administrator|
 | Devices | Windows VMs on Proxmox |
 
 ## Lab checklist (mapped to MD-102 areas)
