@@ -1,11 +1,11 @@
-# [Your Name] · IT Support & Systems Portfolio
+# Neally van Asperen · IT Support & Systems Portfolio
 
 Entry-level IT professional building toward systems engineering and cyber security. This repo documents the hands-on labs I run, what I break, how I fix it, and what I'm studying.
 
 **Based in:** Queensland, Australia
 **Looking for:** IT service desk / helpdesk, MSP, and government IT roles (permanent, contract or temp)
 **Longer-term direction:** Systems engineering and security
-**LinkedIn:** [add link]
+**LinkedIn:** [www.linkedin.com/in/neally-van-asperen-7b574a443k]
 
 ---
 
